@@ -1,2 +1,3 @@
 # PANDAS_FILES.
-This is my fPandas Git Repository.
+This is my Pandas Git Repository.
+Author - Shivani Sharma
